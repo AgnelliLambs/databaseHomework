@@ -1,0 +1,70 @@
+Thu Mar 29 11:32:15 EDT 2018
+failed to end transaction.
+rootMySQLDatabase.endTrans(MySQLDatabase.java:452)
+Equipment.swap(Equipment.java:226)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:32:15 EDT 2018
+failed to rollback transaction.
+rootMySQLDatabase.rollbackTrans(MySQLDatabase.java:475)
+Equipment.swap(Equipment.java:232)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:32:50 EDT 2018
+failed to end transaction.
+rootMySQLDatabase.endTrans(MySQLDatabase.java:452)
+Equipment.swap(Equipment.java:226)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:32:50 EDT 2018
+failed to rollback transaction.
+rootMySQLDatabase.rollbackTrans(MySQLDatabase.java:476)
+Equipment.swap(Equipment.java:232)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:33:34 EDT 2018
+failed to end transaction.
+rootMySQLDatabase.endTrans(MySQLDatabase.java:452)
+Equipment.swap(Equipment.java:226)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:33:34 EDT 2018
+failed to rollback transaction.
+rootMySQLDatabase.rollbackTrans(MySQLDatabase.java:475)
+Equipment.swap(Equipment.java:233)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:34:48 EDT 2018
+failed to end transaction.
+rootMySQLDatabase.endTrans(MySQLDatabase.java:452)
+Equipment.swap(Equipment.java:226)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:34:48 EDT 2018
+failed to rollback transaction.
+rootMySQLDatabase.rollbackTrans(MySQLDatabase.java:475)
+Equipment.swap(Equipment.java:233)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:35:41 EDT 2018
+failed to end transaction.
+rootMySQLDatabase.endTrans(MySQLDatabase.java:453)
+Equipment.swap(Equipment.java:226)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
+Thu Mar 29 11:35:41 EDT 2018
+failed to rollback transaction.
+rootMySQLDatabase.rollbackTrans(MySQLDatabase.java:476)
+Equipment.swap(Equipment.java:233)
+SuperDooperMainClass.main(SuperDooperMainClass.java:21)
+
+
